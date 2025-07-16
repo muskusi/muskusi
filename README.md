@@ -1,25 +1,26 @@
 # 👋 Hi there — I'm Samskruthi Musku
 
-I'm a Data Analyst with 3.5+ years of experience transforming complex data into clear, actionable insights across the Banking, Medical, and Oil & Energy industries. I specialize in data storytelling, process automation, and building intuitive dashboards that drive business impact.
+I'm a passionate Data Analyst with 3.9+ years of experience turning raw data into actionable insights across Banking, Medical, and Oil & Energy sectors. I specialize in analytics, dashboarding, and building end-to-end data solutions using tools like SQL, Python, Power BI, and cloud platforms.
 
-🎓 I hold a Master’s degree in Information Technology from the University of Cincinnati, where I honed my expertise in analytics, machine learning, and cloud data engineering.
+🎓 Currently pursuing my Master’s in Information Technology at the University of Cincinnati (GPA: 3.8), with a focus on cloud data engineering and machine learning.
 
-## 💼 Experience Highlights
+💡 I’ve built fraud detection systems, automated ETL pipelines, and developed AI-powered business intelligence apps using LLMs and Streamlit. My work has improved decision-making, reduced risk, and saved time for multiple teams.
 
-- 💡 Developed AI-powered insights tools using Python, Streamlit, and LLMs to support strategic decision-making
-- 📊 Delivered end-to-end dashboard solutions with Power BI and Tableau to track revenue, KPIs, and trends
-- ⚙️ Automated ETL pipelines using SQL, PySpark, and Azure Data Factory, improving data availability by 40%
-- 📈 Built and deployed time-series forecasting models with Prophet to predict business performance
+---
 
-## 🧰 Tools & Technologies
+## 💼 Work Experience
 
-- Programming: Python, SQL, R, PySpark
-- BI: Power BI, Tableau, Streamlit
-- Cloud & Data: Azure, Snowflake, Redshift, Databricks
-- ML & Forecasting: Scikit-learn, Prophet, TensorFlow
-- ETL: Azure Data Factory, SSIS, Apache Airflow
+- 🏦 Huntington Bancshares — Improved credit risk and fraud detection with predictive models and dashboards for the banking sector.
+- 🧬 Vertex Pharmaceuticals — Automated data pipelines and delivered actionable analytics in support of pharmaceutical R&D.
+- 🛢️ ExxonMobil — Developed BI dashboards and data workflows for optimizing supply chain and operational performance in the energy industry.
 
-## 📫 Let’s Connect
+---
 
-- 🌐 Portfolio: [samskruthireddy088.wixsite.com/my-site-2](https://samskruthireddy088.wixsite.com/my-site-2)  
-- 💼 LinkedIn: [linkedin.com/in/samskruthi-musku](https://www.linkedin.com/in/samskruthi-musku/)
+📈 I’m always excited about transforming complex data into stories that drive impact!
+
+---
+
+🔗 Connect with me:  
+- 📫 [LinkedIn](https://www.linkedin.com/in/samskruthi-musku/)  
+- 🌐 [Portfolio](https://samskruthireddy088.wixsite.com/my-site-2)  
+- ✉️ samskruthimusku97@gmail.com
