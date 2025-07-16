@@ -4,8 +4,6 @@ I'm a passionate Data Analyst with 3.9+ years of experience turning raw data int
 
 🎓 Currently pursuing my Master’s in Information Technology at the University of Cincinnati (GPA: 3.8), with a focus on cloud data engineering and machine learning.
 
-💡 I’ve built fraud detection systems, automated ETL pipelines, and developed AI-powered business intelligence apps using LLMs and Streamlit. My work has improved decision-making, reduced risk, and saved time for multiple teams.
-
 ---
 
 ## 💼 Work Experience
